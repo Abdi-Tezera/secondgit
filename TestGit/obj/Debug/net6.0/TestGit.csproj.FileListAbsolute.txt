@@ -1,0 +1,15 @@
+C:\Users\Abdi\source\repos\TestGit\TestGit\bin\Debug\net6.0\TestGit.exe
+C:\Users\Abdi\source\repos\TestGit\TestGit\bin\Debug\net6.0\TestGit.deps.json
+C:\Users\Abdi\source\repos\TestGit\TestGit\bin\Debug\net6.0\TestGit.runtimeconfig.json
+C:\Users\Abdi\source\repos\TestGit\TestGit\bin\Debug\net6.0\TestGit.dll
+C:\Users\Abdi\source\repos\TestGit\TestGit\bin\Debug\net6.0\TestGit.pdb
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\TestGit.csproj.AssemblyReference.cache
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\TestGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\TestGit.AssemblyInfoInputs.cache
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\TestGit.AssemblyInfo.cs
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\TestGit.dll
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\refint\TestGit.dll
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\TestGit.pdb
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\TestGit.genruntimeconfig.cache
+C:\Users\Abdi\source\repos\TestGit\TestGit\obj\Debug\net6.0\ref\TestGit.dll
